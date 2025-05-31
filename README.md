@@ -21,7 +21,7 @@ Este repositório contém os exercícios práticos da Aula 14 sobre React JS, fo
 ```Treeview
 aula_14
 ├── Alternador.js
-├── App.js
+├── App.jsx
 ├── ContadorBasico.js
 ├── InputTexto.js
 └── README.md
